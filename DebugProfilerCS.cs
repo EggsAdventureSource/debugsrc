@@ -68,3 +68,4 @@ public class DebugProfilerCS : MonoBehaviour
         }
     }
 }
+// bad code i k
